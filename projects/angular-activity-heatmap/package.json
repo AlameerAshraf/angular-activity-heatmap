@@ -1,0 +1,19 @@
+{
+  "name": "@alameer/angular-activity-heatmap",
+  "version": "0.0.1",
+  "description": "An Angular activity heatmap",
+  "keywords": ["angular", "heatmap", "component", "angular-material", "tooltip"],
+  "author": "Alameer Ashraf <alamiir.ashraf@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "@angular/common": "^18.2.0",
+    "@angular/core": "^18.2.0",
+    "@angular/cdk": "^18.2.4",
+    "@angular/material": "^18.2.4",
+    "@angular/animations": "^18.2.4"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false
+}
