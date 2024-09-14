@@ -5,6 +5,10 @@
   "keywords": ["angular", "heatmap", "component", "angular-material", "tooltip"],
   "author": "Alameer Ashraf <alamiir.ashraf@gmail.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlameerAshraf/angular-activity-heatmap"
+  },
   "peerDependencies": {
     "@angular/common": "^18.2.0",
     "@angular/core": "^18.2.0",
